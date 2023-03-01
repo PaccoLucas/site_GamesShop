@@ -8,11 +8,13 @@ header {
     padding: 16px 0;
     background-color: #182c61;
     color: #ecf0f1;
+    font-size: 24px;
 }
 
 header nav li {
     display: inline;
     margin: 16px;
+    text-decoration: none;
 }
 
 header nav li a {
