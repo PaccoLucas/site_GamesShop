@@ -5,8 +5,10 @@
 }
 
 header,
-section h2 {
+section h2,
+section h3 {
     font-family: 'Bungee', cursive;
+    font-weight: normal;
 }
 
 body {
@@ -19,10 +21,6 @@ header {
     color: #ecf0f1;
 }
 
-header h1,
-section h2 {
-    font-weight: normal;
-}
 
 header nav li {
     display: inline;
