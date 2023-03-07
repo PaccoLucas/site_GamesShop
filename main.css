@@ -123,4 +123,9 @@ section h3 {
 form button {
     background-color: #182c61;
     color: #fff;
+    border: none;
+}
+
+form button:hover{
+    background-color: #314e9e;
 }
