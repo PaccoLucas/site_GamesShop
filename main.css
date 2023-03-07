@@ -91,6 +91,7 @@ section p {
 
 .contact-methods {
     display: flex;
+    justify-content: space-between;
 }
 
 form input,
