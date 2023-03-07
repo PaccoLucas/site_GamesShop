@@ -92,3 +92,10 @@ section p {
 .contact-methods {
     display: flex;
 }
+
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 320px;
+}
